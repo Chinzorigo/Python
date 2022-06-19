@@ -1,0 +1,2 @@
+Thi is text file. 
+Python help me to open this file.
